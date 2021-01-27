@@ -16,3 +16,4 @@
 
 [![akoDing's github stats]
 <img src="https://github-readme-stats.vercel.app/api?username=akoDing&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+[![lycHub's github stats](https://github-readme-stats.vercel.app/api?username=lycHub&theme=dark&show_icons=true)](https://github.com/lycHub)
