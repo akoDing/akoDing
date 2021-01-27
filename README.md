@@ -14,4 +14,4 @@
  ![Angular](https://img.shields.io/badge/-Angular-3b2e5a?style=plastic&logo=angular)
  ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue)
 
-[![akoDing's github stats](https://github-readme-stats.vercel.app/api?username=akoDing&show_icons=true)]
+![akoDing's github stats](https://github-readme-stats.vercel.app/api?username=akoDing&show_icons=true)
