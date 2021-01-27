@@ -13,3 +13,6 @@
  ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic&logo=webpack)
  ![Angular](https://img.shields.io/badge/-Angular-3b2e5a?style=plastic&logo=angular)
  ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=akoDing&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
